@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tatsam Anand – Indian Guitarist</title>
 </head>
 <body>
 
